@@ -1,2 +1,2 @@
-# curriculo
+# Curriculo
 Curriculo digital 
